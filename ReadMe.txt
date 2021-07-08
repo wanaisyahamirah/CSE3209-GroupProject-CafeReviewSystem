@@ -45,7 +45,5 @@ Module 2: Cafe
 Module 3: Review
 Module 4: System Feedback
 
-That's all from us, thank you madam!
-
 Warm Regards,
 Group 7 <3
