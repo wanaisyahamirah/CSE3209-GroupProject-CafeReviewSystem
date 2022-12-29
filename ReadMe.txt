@@ -1,10 +1,23 @@
+Fork Repo Steps-By-Steps
+
+1.  This repo is best perfomed in Netbeans IDE
+2.  You need JRE, Taglibs as well as JDBC Driver
+    Make sure you update the libraries (Right click on the project > Properties > Libraries)
+3.  Once the repo is already in your local, reconfigure Database Connection 
+    a. (Source Packages > database > DBConnection.java)
+    b. (Web Pages > img > image.jsp)
+    P/S: please reconfigure the username and password accordance to your tomcat configuration
+4.  Now you are good to go !
+
+Get To Know Us
+
 We are from Group 7 and here is the details of our group members:
 1. Dennis Ting Sheng Rong (S54407)
 2. Nurul Nur Aliesa Binti Mohd Rafie (S54162)
 3. Nik Aminah Thaherah Binti Mohd Rizan (S54170)
 4. Wan Aisyah Amirah Binti Wan Mohd Zamri (S54164)
 
-Hi, here I attach a brief description of how our system (LaRevue) operates.
+Hi, here we attach a brief description of how our system (LaRevue) operates.
 
 First thing first, you need to run and build the index.jsp file as it will display you
 the Landing Page of our system.
