@@ -13,7 +13,7 @@ public class DBConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/cafereviewsystem";
     private static final String DRIVER_NAME = "com.mysql.jdbc.Driver";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "admin";
+    private static final String PASSWORD = "";
     
     private static Connection conn;
     

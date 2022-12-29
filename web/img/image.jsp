@@ -18,7 +18,7 @@
 
     try {
         Class.forName("com.mysql.jdbc.Driver");
-        con = DriverManager.getConnection("jdbc:mysql://localhost:3306/cafereviewsystem", "root", "admin");
+        con = DriverManager.getConnection("jdbc:mysql://localhost:3306/cafereviewsystem", "root", "");
         stmt = con.createStatement();
         rs = stmt.executeQuery("select cafeImage from cafes where cafeid =" +id);
         if (rs.next()) {
