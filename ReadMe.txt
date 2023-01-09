@@ -7,7 +7,9 @@ Fork Repo Steps-By-Steps
     a. (Source Packages > database > DBConnection.java)
     b. (Web Pages > img > image.jsp)
     P/S: please reconfigure the username and password accordance to your tomcat configuration
-4.  Now you are good to go !
+4.  Now you are good to go ! 
+
+Can ask me directly @ aisyahamirahzamri@gmail.com for any future inquiries !
 
 Get To Know Us
 
