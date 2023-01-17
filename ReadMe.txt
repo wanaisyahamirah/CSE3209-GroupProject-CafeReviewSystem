@@ -13,7 +13,7 @@ Can ask me directly @ aisyahamirahzamri@gmail.com for any future inquiries !
 
 Get To Know Us
 
-We are from Group 7 and here is the details of our group members:
+We are from Group 7 and here are the details of our group members:
 1. Dennis Ting Sheng Rong (S54407)
 2. Nurul Nur Aliesa Binti Mohd Rafie (S54162)
 3. Nik Aminah Thaherah Binti Mohd Rizan (S54170)
